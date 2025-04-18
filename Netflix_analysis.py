@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[3]:
 
 
 # Netflix Movies and TV Shows Analysis
@@ -11,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv("C:\\Users\\fakih\\Downloads\\netflix_titles.csv")
+df = pd.read_csv("C:\\Users\\...\\netflix_titles.csv")
 
 # Basic info
 print("Dataset shape:", df.shape)
@@ -60,13 +59,6 @@ plt.xlabel("Number of Titles")
 plt.show()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
